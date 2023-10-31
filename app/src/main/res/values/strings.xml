@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">SmartHomeProject</string>
+    <string name="enter">enter</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="language">language</string>
+    <string name="continue_s">continue</string>
+
+</resources>

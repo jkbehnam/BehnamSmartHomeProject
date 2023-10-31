@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter">ورود</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">رمز عبور</string>
+    <string name="language">زبان</string>
+    <string name="continue_s">ادامه</string>
+
+</resources>
